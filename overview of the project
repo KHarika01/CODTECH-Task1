@@ -1,6 +1,6 @@
 NAME:K HARIKA
 COMPANY:CODTECH IT SOLUTIONS
-ID:CT08DS2416
+ID::CT4ML2503
 DOMAIN:MACHINE LEARNING
 DURATION:JUNE 20 TO JULY 20 2024
 MENTOR:NEELA SANTHU
@@ -21,4 +21,4 @@ Examine the dataset for any missing values and the types of features (numeric, c
 2. Preprocess the Data:
 Handling Missing Values: Decide on a strategy to handle missing values (e.g., imputation, removal).
 Encoding Categorical Variables: Use one-hot encoding or label encoding for categorical features.
-Normalization/Standardization: Scale the features to ensure they are on a similar scale, if necessary
+
